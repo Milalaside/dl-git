@@ -1,2 +1,3 @@
 Rencana konten untuk kedepannya
 - mempelajari javascript expert
+- mempelajari CI
