@@ -1,4 +1,0 @@
-isinya tentang list skill yang ingin dikuasai
-1. Javascript
-2. DevOps
-3. Bootstrap
