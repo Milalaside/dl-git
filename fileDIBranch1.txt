@@ -1,0 +1,5 @@
+isinya tentang list skill yang ingin dikuasai (terjadi rename file)
+1. Javascript
+2. DevOps
+3. Bootstrap
+4. PHP mvc 
